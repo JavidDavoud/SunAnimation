@@ -11,6 +11,7 @@
 		6931514F2B5565A3004AD805 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6931514E2B5565A3004AD805 /* ContentView.swift */; };
 		693151512B5565A6004AD805 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 693151502B5565A6004AD805 /* Assets.xcassets */; };
 		693151542B5565A6004AD805 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 693151532B5565A6004AD805 /* Preview Assets.xcassets */; };
+		6931515B2B5565D1004AD805 /* CGFloat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6931515A2B5565D1004AD805 /* CGFloat.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6931514E2B5565A3004AD805 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		693151502B5565A6004AD805 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		693151532B5565A6004AD805 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6931515A2B5565D1004AD805 /* CGFloat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGFloat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				6931514C2B5565A3004AD805 /* SunAnimationApp.swift */,
 				6931514E2B5565A3004AD805 /* ContentView.swift */,
+				6931515A2B5565D1004AD805 /* CGFloat.swift */,
 				693151502B5565A6004AD805 /* Assets.xcassets */,
 				693151522B5565A6004AD805 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6931515B2B5565D1004AD805 /* CGFloat.swift in Sources */,
 				6931514F2B5565A3004AD805 /* ContentView.swift in Sources */,
 				6931514D2B5565A3004AD805 /* SunAnimationApp.swift in Sources */,
 			);
